@@ -2,7 +2,7 @@ Take ownership of borrowed references
 
 So the garbage collector can do it's job
 
-Related to [CPython's gh-138235](https://github.com/python/cpython/issues/138235)
+Related to [CPython's gh-138235](https://github.com/python/cpython/issues/138235) (see otherwise.py on how this module may be optional)
 
 Allows the python programmer to tightly think about the refcount, without switching to the C-API
 
