@@ -1,3 +1,11 @@
+# Project retired
+Looks like there is no actual need for this project.
+
+Just look at otherwise.py (or better at [yeastr](github.com/yeastr-org/yeastr))
+
+There is no benefit using this extension, you can go 100% python and achieve better results.
+
+# Briefly
 Take ownership of borrowed references
 
 So the garbage collector can do it's job
